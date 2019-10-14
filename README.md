@@ -1,2 +1,2 @@
 # git-one
-This is a Jugaad
+This is NOT a Jugaad
