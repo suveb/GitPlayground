@@ -1,3 +1,2 @@
-# git-one
-This is NOT a Jugaad
-This repo is created  by suveb Ansari
+# Git-PlayGround
+This repo is created  by Suveb Ansari
